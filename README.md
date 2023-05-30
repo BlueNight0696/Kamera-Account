@@ -1,8 +1,7 @@
 # Kamera-Account
 Hier ist das Minecraft-Structure file für den Kamera Account in MC Vanilla.
 
-<a href="https://pc-tipp.com/cam-acc" target="_blank">">> Hier zur offiziellen erklährung und YouTube Video <<"</a>
-
+[>> Hier zur offiziellen erklährung und YouTube Video <<](https://pc-tipp.com/cam-acc){:target="_blank"} 
 
 ## Unübersichtliche Anleitung:
 ### Automatischer Camera Account in Minecraft Vanilla 
